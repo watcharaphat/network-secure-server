@@ -1,4 +1,8 @@
 {
+  "name": "network-secure-server",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "ISC",
   "dependencies": {
     "express": "^4.16.0",
     "mysql": "^2.14.1"
